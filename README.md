@@ -2,6 +2,14 @@
 一款面向课堂与讲座的实时翻译工具，帮助听懂外文授课、学术讲座，支持录音转写、实时字幕翻译。
 
 > LectureGO | 听课无国界，课上即刻译
+## 📥 下载
+最新版本：LectureGO v0.1.0 (Pre-release)
+> 程序打包体积较大，采用百度网盘分发
+百度网盘：https://pan.baidu.com/s/17SkdxAZA_0J72IPvzS1AyQ?pwd=b9fb
+提取码：b9fb
+文件：LectureGo.7z
+
+⚠️ 使用前请阅读仓库内【TERMS.md 用户协议】与【PRIVACY.md 隐私政策】
 
 ## ✨ 功能介绍
 - 🎤 麦克风实时收音：捕获课堂、讲座语音
